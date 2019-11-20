@@ -1,0 +1,11 @@
+token: A1B2C3
+images:
+  citizenship-example: IMAGE LINK
+#Put the channel ID for each channel
+channels:
+  border-force: 1234567890
+roles:
+  citizen: 1234567890
+  pre-citizen: 1234567890
+#Don't touch this. Just don't. I'll tell you if it needs to get changed
+loglevel: INFO
