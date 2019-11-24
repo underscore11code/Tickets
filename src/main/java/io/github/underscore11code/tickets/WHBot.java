@@ -1,4 +1,4 @@
-package com.gmail.minecrafter11mrt.whbot;
+package io.github.underscore11code.tickets;
 
 import github.scarsz.discordsrv.DiscordSRV;
 

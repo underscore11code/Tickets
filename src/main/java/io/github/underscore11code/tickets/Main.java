@@ -1,4 +1,4 @@
-package com.gmail.minecrafter11mrt.whbot;
+package io.github.underscore11code.tickets;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hey!");

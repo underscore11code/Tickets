@@ -25,7 +25,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.gmail.minecrafter11mrt.whbot.Main</mainClass>
+                            <mainClass>io.github.underscore11code.tickets.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
