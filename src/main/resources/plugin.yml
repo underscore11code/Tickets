@@ -1,5 +1,4 @@
 name: WHBot
-version: 0.2.26
+version: 0.0.1
 author: Underscore11
 main: com.gmail.minecrafter11mrt.whbot.WHBot
-description: A plugin-based Discord bot made for the WolvHaven Community. Usage of this plugin without permission from the author is not permitted.
