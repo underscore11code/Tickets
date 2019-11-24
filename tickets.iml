@@ -63,5 +63,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:text-serializer-legacy:3.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:text-adapter-bukkit:3.0.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:text-serializer-gson:3.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.10" level="project" />
   </component>
 </module>

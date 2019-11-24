@@ -1,5 +1,7 @@
 package io.github.underscore11code.tickets.util;
 
+import lombok.Getter;
+import lombok.Setter;
 import org.bukkit.plugin.PluginLogger;
 
 import java.util.logging.Logger;
@@ -8,7 +10,7 @@ import java.util.logging.LogRecord;
 
 public class Debugger{
     private static Logger logger;
-    private static boolean debug=false;
+    @Getter @Setter private static boolean debug=false;
     private String fileName="";
 
     //Should only be called once in onEnable()
@@ -22,12 +24,6 @@ public class Debugger{
         fileName=file;
     }
 
-    //Getters and Setters
-    public boolean getDebug(){return debug;}
-    public boolean setDebug(boolean state){
-        debug=state;
-        return debug;
-    }
     public void info(String message){
         logger.log(new LogRecord(Level.INFO, message));
     }
