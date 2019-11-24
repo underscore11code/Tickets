@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hey!");
         System.out.println("I'm a spigot plugin");
         System.out.println("Don't run me directly, put me in your plugin folder");
-        if(args[0].equalsIgnoreCase("true")){new WHBot();}
+        if(args[0].equalsIgnoreCase("true")){new Tickets();}
     }
 }

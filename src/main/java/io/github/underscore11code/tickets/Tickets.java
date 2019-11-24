@@ -6,7 +6,7 @@ import io.github.underscore11code.tickets.util.Debugger;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class WHBot extends JavaPlugin {
+public class Tickets extends JavaPlugin {
     private static String ver;
     private Debugger debugger;
     
